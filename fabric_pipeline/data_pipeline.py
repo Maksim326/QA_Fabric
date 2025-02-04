@@ -6,6 +6,6 @@ except ImportError:
 
 #Test decorator
 @check_raw_table
-def create_raw_rable():
+def create_raw_table():
     print("Creating raw table...")
     return True
